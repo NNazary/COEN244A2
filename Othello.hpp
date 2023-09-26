@@ -1,9 +1,5 @@
-//
-//  Othello.hpp
-//  OthelloAssignment
-//
+
 //  Created by Najmuddin Nazary on 2023-03-23.
-//
 
 #ifndef Othello_hpp
 #define Othello_hpp
